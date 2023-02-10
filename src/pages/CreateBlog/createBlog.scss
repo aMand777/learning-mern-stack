@@ -1,0 +1,15 @@
+.create-blog {
+  margin-top: 50px;
+  display: flex;
+  flex-direction: column;
+  .create-post {
+    font-size: large;
+    font-weight: bold;
+    color: gray;
+  }
+  .button-post {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+  }
+}

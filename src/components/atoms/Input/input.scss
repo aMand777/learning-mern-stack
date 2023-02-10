@@ -1,0 +1,17 @@
+.input-wrapper {
+  margin-bottom: 14px;
+
+  .label {
+    font-style: italic;
+    font-size: 16px;
+    margin: 0px;
+  }
+
+  .input {
+    padding: 12px;
+    border-radius: 8px;
+    outline: none;
+    width: 100%;
+    box-sizing: border-box;
+  }
+}
